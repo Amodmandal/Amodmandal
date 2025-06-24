@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter ,dart, git, C, C++,Java**
 
-- 📫 How to reach me **mandala573@gmail**
+- 📫 How to reach me **mandala573@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
